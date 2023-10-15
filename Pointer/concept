@@ -1,0 +1,8 @@
+/*
+Pointers :-A variable that stores the memory address of another variable
+
+int age=22;
+int *ptr=$age; we are storing address of the age
+int age1=*ptr; we are accessing the value of pointer
+
+*/
